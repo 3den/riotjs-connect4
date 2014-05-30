@@ -1,4 +1,4 @@
-Riot-ConnectN
+Riot ConnectN
 ===============
 
 A simple and flexible implementation on the connect4 game http://en.wikipedia.org/wiki/Connect_Four.
@@ -7,7 +7,7 @@ This APP uses riotjs (https://muut.com/riotjs/) framework but the main logic is 
 
 ## Try the APP
 
-Just open `index.html` in you favorite browser, but I just tested it in chrome :P
+Just visit http://www.3den.org/riotjs-connect4/ or clone the app and open `index.html` in you favorite browser.
 
 ## Tests
 
